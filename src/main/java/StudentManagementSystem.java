@@ -68,6 +68,7 @@ public class StudentManagementSystem {
             System.out.println("2. Display Students");
             System.out.println("3. Search Student");
             System.out.println("4. Exit");
+            System.out.println("5. Update Student");
 
             System.out.print("Choose Option: ");
 
